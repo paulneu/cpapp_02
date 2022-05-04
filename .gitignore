@@ -24,6 +24,4 @@ mta_archives/
 *.iml
 *.flattened-pom.xml
 
-# IDEs
-# .vscode
-# .idea
+
